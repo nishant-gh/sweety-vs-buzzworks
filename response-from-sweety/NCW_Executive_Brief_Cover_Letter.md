@@ -74,17 +74,17 @@ Key facts Buzzworks has concealed:
 
 ## Requested Commission Actions
 
-### Urgent Actions (Within 48 Hours):
+### Immediate Actions Required:
 1. Summon Buzzworks officials for examination under oath
 2. Order immediate reinstatement and maternity benefit payment
 3. Obtain email server logs to verify receipt of September 26, 2025 response
 
-### Investigative Actions (Within 7 Days):
+### Investigative Actions:
 4. Verify the Purchase Order signature date (August 12, 2024) for authenticity
 5. Examine postal records for alleged October 4, 2025 termination letter
 6. Obtain statement from Wipro regarding extension refusal claims
 
-### Systemic Interventions (Within 30 Days):
+### Systemic Interventions:
 7. Audit Buzzworks for patterns of pregnancy-based discrimination
 8. Issue comprehensive guidelines on contractor obligations for maternity benefits
 9. Refer matter for criminal prosecution under Section 12 of the Maternity Benefit Act

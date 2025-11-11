@@ -32,3 +32,5 @@ When citing sources in the final documents, use these mapped filenames.
 - "Engagement_Extension_Email_Thread.txt" -> "NCW_8C250020384_5_Engagement_Extension_Email_Thread.eml"
 - "Formal_Maternity_Leave_Email_Thread.txt" -> "NCW_8C250020384_6_Formal_Maternity_Leave_Email_Thread.eml"
 - "Offer_Letter_Email_Thread.txt" -> "NCW_8C250020384_7_Offer_Letter_Email_Thread.eml"
+
+We are working on our response which is in the @response-from-sweety directory.
